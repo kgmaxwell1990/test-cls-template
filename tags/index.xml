@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Universal</title>
-    <link>https://kgmaxwell1990.github.io/test-cls-template/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://kgmaxwell1990.github.io/test-cls-template/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ipsum</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/tags/ipsum/</link>
+      <link>/tags/ipsum/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/tags/ipsum/</guid>
+      <guid>/tags/ipsum/</guid>
       <description></description>
     </item>
     
