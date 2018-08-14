@@ -1,10 +1,91 @@
-/* your styles go here */
-
-.box-image-text .image {
-  min-height: 200px;
-  max-height: 200px;
+body {
+    padding: 0;
 }
 
-.box-simple {
-  min-height: 230px;
+.main_header {
+    margin-top: -20px;
+    padding: 5%;
+    height: 40vh;
+    background: url('../img/header-mobile.jpg') no-repeat;
+    background-size: cover;
+    color: #fafafa;
+}
+
+.main_header h1,
+.main_header h2,
+.main_header h3,
+.main_header h4,
+.main_header h5,
+.main_header h6 {
+    color: #fafafa
+}
+
+.main_container {
+    padding: 30px;
+}
+
+.card {
+    margin-top: 15px;
+    padding: 5%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius: 3px;
+}
+
+
+
+
+@media (min-width: 768px) {
+
+    .main_header {
+        margin-top: -20px;
+        padding: 5%;
+        height: 40vh;
+        background: url('../img/header.jpg') no-repeat;
+        background-size: cover;
+        color: lightgray;
+    }
+
+    .align_right {
+        text-align: right;
+    }
+
+    .floating_nav {
+        margin-top: -65px;
+    }
+
+    .navbar-brand {
+        display: none;
+    }
+
+    .navbar-default {
+        background: linear-gradient(transparent, black);
+        border: none;
+    }
+
+    .nav_norm {
+        background: gray;
+    }
+
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+
+    .navbar-default .navbar-nav>li>a {
+        color: #fafafa;
+    }
+
+    .navbar-default .navbar-nav>li>a:hover {
+        color: lightgray;
+    }
+
+    .navbar-affixed-top {
+        width: 100%;
+        text-align: center;
+    }
 }
