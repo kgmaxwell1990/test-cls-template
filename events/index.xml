@@ -22,5 +22,59 @@
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
+    <item>
+      <title>Ancient Aliens</title>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/ancient_aliens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/ancient_aliens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caroline Myss</title>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/caroline_myss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/caroline_myss/</guid>
+      <description>This is info on Caroline</description>
+    </item>
+    
+    <item>
+      <title>David Wilcock</title>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/david_wilcock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/david_wilcock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Perkins</title>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/john_perkins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/john_perkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lynn McTaggart</title>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/lynn_mctaggart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/lynn_mctaggart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vickie Gay</title>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/vickie_gay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/vickie_gay/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
