@@ -3,79 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>/events/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/ancient_aliens/</loc>
+    <loc>/events/1/01/01/ancient_aliens/</loc>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/caroline_myss/</loc>
+    <loc>/events/1/01/01/caroline_myss/</loc>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/david_wilcock/</loc>
+    <loc>/events/1/01/01/david_wilcock/</loc>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/tags/ipsum/</loc>
+    <loc>/events/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/john_perkins/</loc>
+    <loc>/faq/</loc>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/categories/lorem/</loc>
+    <loc>/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/lynn_mctaggart/</loc>
+    <loc>/events/1/01/01/john_perkins/</loc>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/tags/</loc>
+    <loc>/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/</loc>
+    <loc>/events/1/01/01/lynn_mctaggart/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/vickie_gay/</loc>
+    <loc>/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/buy/</loc>
+    <loc>/events/1/01/01/vickie_gay/</loc>
+  </url>
+  
+  <url>
+    <loc>/buy/</loc>
   </url>
   
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Universal</title>
-    <link>https://kgmaxwell1990.github.io/test-cls-template/</link>
+    <link>/</link>
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://kgmaxwell1990.github.io/test-cls-template/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/events/2015/10/10/migrate-from-jekyll/</link>
+      <link>/events/2015/10/10/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/2015/10/10/migrate-from-jekyll/</guid>
+      <guid>/events/2015/10/10/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -24,84 +24,84 @@
     
     <item>
       <title>Ancient Aliens</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/ancient_aliens/</link>
+      <link>/events/1/01/01/ancient_aliens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/ancient_aliens/</guid>
+      <guid>/events/1/01/01/ancient_aliens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caroline Myss</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/caroline_myss/</link>
+      <link>/events/1/01/01/caroline_myss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/caroline_myss/</guid>
+      <guid>/events/1/01/01/caroline_myss/</guid>
       <description>This is info on Caroline</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/contact/</guid>
+      <guid>/contact/</guid>
       <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
 Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
     </item>
     
     <item>
       <title>David Wilcock</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/david_wilcock/</link>
+      <link>/events/1/01/01/david_wilcock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/david_wilcock/</guid>
+      <guid>/events/1/01/01/david_wilcock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/faq/</link>
+      <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/faq/</guid>
+      <guid>/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
     </item>
     
     <item>
       <title>John Perkins</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/john_perkins/</link>
+      <link>/events/1/01/01/john_perkins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/john_perkins/</guid>
+      <guid>/events/1/01/01/john_perkins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lynn McTaggart</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/lynn_mctaggart/</link>
+      <link>/events/1/01/01/lynn_mctaggart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/lynn_mctaggart/</guid>
+      <guid>/events/1/01/01/lynn_mctaggart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vickie Gay</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/vickie_gay/</link>
+      <link>/events/1/01/01/vickie_gay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/vickie_gay/</guid>
+      <guid>/events/1/01/01/vickie_gay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>buy</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/buy/</link>
+      <link>/buy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/buy/</guid>
+      <guid>/buy/</guid>
       <description>Buy Tickets</description>
     </item>
     
