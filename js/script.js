@@ -7,28 +7,10 @@ $('#countdown').timeTo({
     captionSize: 12
 });
 
+$('.panel-collapse').on('show.bs.collapse', function () {
+    $(this).siblings('.panel-heading').addClass('active');
+  });
 
-// var block = false;
-// $(".card").mouseenter(function(){
-//     if(!block) {
-//         block = true;
-//         $(".hidden_info").slideDown(400, function(){
-//             block = false;
-//         });
-//     }
-// });
-// $(".card").mouseleave(function(){
-//     if(!block) {
-//         block = true;
-//         $(".hidden_info").slideUp(400, function(){
-//             block = false;
-//         });
-//     }
-// });
-
-// $(".card").mouseenter(function(){
-//     $(".card_img").hide()
-// })
-// $(".card").mouseleave(function(){
-//     $(".card_img").show()
-// })
+  $('.panel-collapse').on('hide.bs.collapse', function () {
+    $(this).siblings('.panel-heading').removeClass('active');
+  });
