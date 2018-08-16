@@ -7,6 +7,10 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'Expletus Sans', cursive;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 .display_none {
     display: none;
 }
@@ -91,6 +95,12 @@ h1,h2,h3,h4,h5,h6 {
     background-size: cover;
   }
 
+  .bar.background-image-fixed-3 {
+    background: url('../img/parralax_bg.jpg') center top no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
 .par_info {
     margin-bottom: 70px;
 }
@@ -124,6 +134,49 @@ h1,h2,h3,h4,h5,h6 {
 
 .speaker_block {
     margin-top: 60px;
+}
+
+
+.modal-header,
+.modal-footer {
+    text-align: center;
+    border: none;
+}
+
+.modal-header {
+    padding-bottom: 0;
+}
+.modal_row {
+    margin: 15px 0;
+}
+
+.border-left {
+    border-left: 3px solid rgb(79, 179, 197);
+}
+
+
+.ticket_small {
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+.tickets_large {
+    margin: 3% 4%;
+    padding: 3%;
+    background-color: rgba(255,255,255,0.7);
+}
+
+.tickets_large:hover {
+    background-color: rgba(255,255,255,0.9);
+    transition: background-color .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+}
+
+.tickets_large h4,
+.tickets_large h5 {
+    color: black!important;
 }
 
 #footer {
