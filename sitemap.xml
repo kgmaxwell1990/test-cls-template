@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/ancient_aliens/</loc>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/ancient_aliens/</loc>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/caroline_myss/</loc>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/caroline_myss/</loc>
   </url>
   
   <url>
@@ -25,11 +25,15 @@
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/corey_goode/</loc>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/corey_goode/</loc>
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/david_wilcock/</loc>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/david_wilcock/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/espanol/</loc>
   </url>
   
   <url>
@@ -49,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/john_perkins/</loc>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/john_perkins/</loc>
   </url>
   
   <url>
@@ -59,7 +63,15 @@
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/lynn_mctaggart/</loc>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/lynn_mctaggart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/partner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/schedule/</loc>
   </url>
   
   <url>
@@ -75,11 +87,15 @@
   </url>
   
   <url>
-    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/1/01/01/vickie_gay/</loc>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/events/vickie_gay/</loc>
   </url>
   
   <url>
     <loc>https://kgmaxwell1990.github.io/test-cls-template/buy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kgmaxwell1990.github.io/test-cls-template/register/</loc>
   </url>
   
 </urlset>
