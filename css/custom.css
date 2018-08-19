@@ -15,10 +15,14 @@ a:hover {
     display: none;
 }
 
+.fas {
+    color: rgb(79, 179, 197);
+}
+
 .centered_div {
     text-align: center;
     width: 100vw;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .full_wrapping_container {
@@ -92,7 +96,6 @@ a:hover {
 
 .container {
     display: inline-block;
-    cursor: pointer;
 }
 
 .bar1, .bar2, .bar3 {
@@ -190,8 +193,16 @@ a:hover {
     margin-top: 10px;
 }
 
+.pre_event {
+    margin-top: 50px;
+}
+
+.pre_event .fas {
+    margin: 20px 0;
+}
+
 .events_container h4 {
-    font-size: 1.6vw;
+    font-size: 6vw;
     color: black;
     background-color:rgba(255,255,255,0.7);
     padding: 5px;
@@ -225,25 +236,20 @@ a:hover {
 
 .ticket_small {
     padding: 10px;
+    margin-bottom: 10px;
     border: 1px solid gray;
+    min-height: 120px;
+    text-align: center;
 }
 
-.tickets_large {
+.flip-container {
     margin: 3% 4%;
     padding: 3%;
     background-color: rgba(255,255,255,0.7);
 }
 
-.tickets_large:hover {
-    background-color: rgba(255,255,255,0.9);
-    transition: background-color .5s ease-out;
-    -moz-transition: opacity .5s ease-out;
-    -webkit-transition: opacity .5s ease-out;
-    -o-transition: opacity .5s ease-out;
-}
-
-.tickets_large h4,
-.tickets_large h5 {
+.flip-container h4,
+.flip-container h5{
     color: black!important;
 }
 
@@ -284,6 +290,15 @@ a:hover {
       -moz-transform: rotate(180deg);
       transform: rotate(180deg);
   } 
+
+  .back p {
+    color: black!important;
+}
+
+.faq_container {
+    width: 100vw;
+    padding: 20px 6%;
+}
 
 #footer {
     padding: 30px;
@@ -370,4 +385,72 @@ a:hover {
     .browse {
         margin-top: 0;
     }
+
+    .events_container h4 {
+        font-size: 1.4vw;
+    }
+
+
+.flip-container {
+  -webkit-perspective: 1000;
+  -moz-perspective: 1000;
+  -o-perspective: 1000;
+  perspective: 1000;
+  margin: 3% 4%;
+  padding: 3%;
+  background-color: rgba(255,255,255,0.7);
+
+}
+
+
+
+	.flip-container:hover .flipper,  
+  .flip-container.hover .flipper {
+		-webkit-transform: rotateY(180deg);
+		-moz-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+		transform: rotateY(180deg);
+	}
+
+.flip-container, .front, .back {
+	width: 100%;
+	min-height: 150px;
+}
+
+.flipper {
+	-webkit-transition: 0.6s;
+	-webkit-transform-style: preserve-3d;
+
+	-moz-transition: 0.6s;
+	-moz-transform-style: preserve-3d;
+  
+  -o-transition: 0.6s;
+	-o-transform-style: preserve-3d;
+
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
+
+.front, .back {
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+	backface-visibility: hidden;
+
+	position: absolute;
+	top: 0;
+    left: 0;
+    
+}
+
+.back {
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+	transform: rotateY(180deg);
+	background: transparent;
+}
+
 }
