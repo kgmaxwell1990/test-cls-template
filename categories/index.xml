@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Conscious Life Expo - live streaming</title>
-    <link>https://kgmaxwell1990.github.io/test-cls-template/categories/</link>
+    <link>https://github.com/kgmaxwell1990/public-code-cls/categories/</link>
     <description>Recent content in Categories on Conscious Life Expo - live streaming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://kgmaxwell1990.github.io/test-cls-template/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/kgmaxwell1990/public-code-cls/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lorem</title>
-      <link>https://kgmaxwell1990.github.io/test-cls-template/categories/lorem/</link>
+      <link>https://github.com/kgmaxwell1990/public-code-cls/categories/lorem/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://kgmaxwell1990.github.io/test-cls-template/categories/lorem/</guid>
+      <guid>https://github.com/kgmaxwell1990/public-code-cls/categories/lorem/</guid>
       <description></description>
     </item>
     
