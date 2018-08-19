@@ -14,17 +14,22 @@ a:hover {
 .display_none {
     display: none;
 }
+
 .centered_div {
     text-align: center;
+    width: 100vw;
+    margin-top: 30px;
 }
 
 .full_wrapping_container {
     padding: 0;
+    width: 100vw;
 }
 
 .navbar ul.nav > li > a {
     text-decoration: none;
     border: none;
+    font-size: 5vw;
 }
 
 .navbar ul.nav > li > a:hover {
@@ -35,10 +40,28 @@ a:hover {
     background-color: transparent;
 }
 
+.navbar-header {
+    width: 100vw;
+    background:  black;
+    border: none;
+    text-align: right;
+    padding: 5px;
+}
+
+.navbar-buttons {
+    margin-right: 5px;
+}
+
+.navbar-collapse {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
 .main_header {
+    width: 100vw;
     margin-top: -20px;
     padding: 5%;
-    height: 40vh;
+    min-height: 40vh;
     background: url('../img/header-mobile.jpg') no-repeat;
     background-size: cover;
     color: #fafafa;
@@ -53,8 +76,46 @@ a:hover {
 .main_header h6 {
     color: #fafafa;
     font-weight: 100;
-    
 }
+
+.main_header h1 {
+    font-size: 6vw;
+}
+
+.main_header h2 {
+    font-size: 9vw;
+}
+
+.main_header h3 {
+    font-size: 5vw;
+}
+
+.container {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+}
+
+
 
 .heading h1, .heading h2, .heading h3, .heading h4, .heading h5 {
     border-radius: 2px;
@@ -62,7 +123,11 @@ a:hover {
 }
 
 .main_container {
-    padding: 30px 0;
+    padding: 35px;
+}
+
+#countdown {
+    display: none;
 }
 
 .coundown_banner {
@@ -86,7 +151,7 @@ a:hover {
 }
 
 .mbs {
-    margin: 30px 80px;
+    margin: 0;
 }
 
 .bar.background-image-fixed-2 {
@@ -102,7 +167,11 @@ a:hover {
   }
 
 .par_info {
-    margin-bottom: 70px;
+    margin: 20px 0;
+}
+
+.browse {
+    margin-top: 80px;
 }
 
 .card {
@@ -135,7 +204,6 @@ a:hover {
 .speaker_block {
     margin-top: 60px;
 }
-
 
 .modal-header,
 .modal-footer {
@@ -218,7 +286,7 @@ a:hover {
   } 
 
 #footer {
-    padding: 0;
+    padding: 30px;
 }
 
 @media (min-width: 768px) {
@@ -226,10 +294,23 @@ a:hover {
     .main_header {
         margin-top: -20px;
         padding: 5%;
-        height: 50vh;
+        min-height: 45vh;
         background: url('../img/header.jpg') no-repeat;
         background-size: cover;
         color: lightgray;
+    }
+
+    
+    .main_header h2 {
+        font-size: 4vw;
+    }
+    
+    .main_header h3 {
+        font-size: 2vw;
+    }
+
+    #countdown {
+        display: inline-block;
     }
 
     .align_right {
@@ -244,14 +325,19 @@ a:hover {
         display: none;
     }
 
+    .navbar-header {
+        display: none;
+    }
+
     .navbar-default {
         background: linear-gradient(transparent, black);
         border: none;
     }
 
-    .nav_norm {
-        background: gray;
+    .navbar ul.nav > li > a {
+        font-size: 1.2vw;
     }
+
 
     .navbar .navbar-nav {
         display: inline-block;
@@ -261,6 +347,7 @@ a:hover {
 
     .navbar .navbar-collapse {
         text-align: center;
+        border: none;
     }
 
     .navbar-default .navbar-nav>li>a {
@@ -274,5 +361,13 @@ a:hover {
     .navbar-affixed-top {
         width: 100%;
         text-align: center;
+    }
+
+    .mbs {
+        margin: 30px 80px;
+    }
+
+    .browse {
+        margin-top: 0;
     }
 }

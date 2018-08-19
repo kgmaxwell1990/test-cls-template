@@ -3,7 +3,7 @@ $('#countdown').timeTo({
     displayDays: 3,
     theme: "black",
     displayCaptions: true,
-    fontSize: 28,
+    fontSize: 30,
     captionSize: 12
 });
 
@@ -14,3 +14,7 @@ $('.panel-collapse').on('show.bs.collapse', function () {
   $('.panel-collapse').on('hide.bs.collapse', function () {
     $(this).siblings('.panel-heading').removeClass('active');
   });
+
+  function myFunction(x) {
+    x.classList.toggle("change");
+}
