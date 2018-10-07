@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Conscious Life Expo - live streaming</title>
-    <link>https://github.com/kgmaxwell1990/public-code-cls/events/</link>
+    <link>https://kgmaxwell1990.github.io/test-cls-template/events/</link>
     <description>Recent content in Events on Conscious Life Expo - live streaming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://github.com/kgmaxwell1990/public-code-cls/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kgmaxwell1990.github.io/test-cls-template/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>https://github.com/kgmaxwell1990/public-code-cls/events/migrate-from-jekyll/</link>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://github.com/kgmaxwell1990/public-code-cls/events/migrate-from-jekyll/</guid>
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -24,64 +24,64 @@
     
     <item>
       <title>Ancient Aliens</title>
-      <link>https://github.com/kgmaxwell1990/public-code-cls/events/ancient_aliens/</link>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/ancient_aliens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kgmaxwell1990/public-code-cls/events/ancient_aliens/</guid>
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/ancient_aliens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caroline Myss</title>
-      <link>https://github.com/kgmaxwell1990/public-code-cls/events/caroline_myss/</link>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/caroline_myss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kgmaxwell1990/public-code-cls/events/caroline_myss/</guid>
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/caroline_myss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corey Goode</title>
-      <link>https://github.com/kgmaxwell1990/public-code-cls/events/corey_goode/</link>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/corey_goode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kgmaxwell1990/public-code-cls/events/corey_goode/</guid>
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/corey_goode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David Wilcock</title>
-      <link>https://github.com/kgmaxwell1990/public-code-cls/events/david_wilcock/</link>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/david_wilcock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kgmaxwell1990/public-code-cls/events/david_wilcock/</guid>
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/david_wilcock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Perkins</title>
-      <link>https://github.com/kgmaxwell1990/public-code-cls/events/john_perkins/</link>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/john_perkins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kgmaxwell1990/public-code-cls/events/john_perkins/</guid>
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/john_perkins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lynn McTaggart</title>
-      <link>https://github.com/kgmaxwell1990/public-code-cls/events/lynn_mctaggart/</link>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/lynn_mctaggart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kgmaxwell1990/public-code-cls/events/lynn_mctaggart/</guid>
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/lynn_mctaggart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vickie Gay</title>
-      <link>https://github.com/kgmaxwell1990/public-code-cls/events/vickie_gay/</link>
+      <link>https://kgmaxwell1990.github.io/test-cls-template/events/vickie_gay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kgmaxwell1990/public-code-cls/events/vickie_gay/</guid>
+      <guid>https://kgmaxwell1990.github.io/test-cls-template/events/vickie_gay/</guid>
       <description></description>
     </item>
     
