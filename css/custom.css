@@ -177,7 +177,7 @@ a:hover {
 }
 
 .bar.background-image-fixed-2 {
-    background: url('../img/bg2.jpg') center top no-repeat;
+    background: url('../img/bg2-mobile.jpg') center top no-repeat;
     background-attachment: fixed;
     background-size: cover;
   }
@@ -405,6 +405,12 @@ a:hover {
         width: 100%;
         text-align: center;
     }
+
+    .bar.background-image-fixed-2 {
+        background: url('../img/bg2.jpg') center top no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
 
     .mbs {
         margin: 30px 80px;
